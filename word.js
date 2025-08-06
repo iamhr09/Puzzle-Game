@@ -1,0 +1,22 @@
+const wordList = [
+  { word: "puzzle", hint: "A game that makes you think." },
+  { word: "galaxy", hint: "A big group of stars and planets." },
+  { word: "python", hint: "A popular coding language." },
+  { word: "keyboard", hint: "Used to type on a computer." },
+  { word: "oxygen", hint: "We need it to breathe." },
+  { word: "gravity", hint: "It keeps us on the ground." },
+  { word: "mirror", hint: "You see yourself in it." },
+  { word: "emoji", hint: "Small faces that show feelings." },
+  { word: "shadow", hint: "It follows you when there's light." },
+  { word: "camera", hint: "Takes pictures." },
+  { word: "island", hint: "Land with water all around." },
+  { word: "robot", hint: "A smart machine." },
+  { word: "desert", hint: "Very hot and dry place." },
+  { word: "tunnel", hint: "A long dark path." },
+  { word: "planet", hint: "A round world in space." },
+  { word: "energy", hint: "It makes things work." },
+  { word: "guitar", hint: "A music tool with strings." },
+  { word: "rocket", hint: "Goes up into space." },
+  { word: "window", hint: "You can see through it." },
+  { word: "clock", hint: "It shows the time." }
+];
